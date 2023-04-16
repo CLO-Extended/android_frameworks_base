@@ -31,4 +31,8 @@
     <string name="reboot_title">Reboot</string>
     <string name="reboot_message">Rebooting system</string>
 
+    <!-- PowerOffAlarmService -->
+    <string name="poweroff_alarm_cancelled">Power off alarm cancelled</string>
+    <string name="poweroff_alarm_set">Power off alarm set</string>
+
 </resources>

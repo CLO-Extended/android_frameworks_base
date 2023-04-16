@@ -104,4 +104,8 @@
     <java-symbol type="string" name="reboot_title" />
     <java-symbol type="string" name="reboot_message" />
 
+    <!-- PowerOffAlarmService -->
+    <java-symbol type="string" name="poweroff_alarm_cancelled"></java-symbol>
+    <java-symbol type="string" name="poweroff_alarm_set"></java-symbol>
+
 </resources>
